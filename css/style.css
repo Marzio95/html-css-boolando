@@ -8,3 +8,19 @@
     width: 80%;
     margin: 0 auto;
 }
+
+.layout::after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.colonna{
+    float: left;
+    width: 30%;
+}
+
+.img{
+    width: 100%;
+
+}
