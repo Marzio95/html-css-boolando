@@ -68,7 +68,6 @@ html{
     bottom: 5%;
     padding: 3px;
     font-weight: 700;
-
 }
 
 .brand{
@@ -90,4 +89,9 @@ html{
     text-decoration: line-through;
     color: black;
     font-weight: 100;
+}
+
+.sito-prodotto{
+    text-decoration: none;
+    color: black;
 }
