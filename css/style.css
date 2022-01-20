@@ -23,6 +23,7 @@ html{
     float: left;
     width: 30%;
     margin-right: 3%;
+    margin-top: 25px;
 }
 
 .contenitore-img{
@@ -56,6 +57,14 @@ html{
 
 .img-prd-3:hover{
     background-image: url(../img/3b.webp);
+}
+
+.img-prd-4{
+    background-image: url(../img/4.webp);
+}
+
+.img-prd-4:hover{
+    background-image: url(../img/4b.webp);
 }
 
 .heart{
